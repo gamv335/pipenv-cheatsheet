@@ -69,6 +69,10 @@ pipenv install --ignore-pipfile
 ```
 pipenv lock
 ```
+## Exiting the virtualenv
+```
+exit
+```
 ## Run with pipenv
 ```
 pipenv run *
