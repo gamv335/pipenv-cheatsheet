@@ -39,21 +39,7 @@ pipenv install nose --dev
 ```
 pipenv install -r ./requirements.txt
 ```
-## Create Django project
-```
-django-admin startproject testproject
-cd testproject
-python manage.py runserver
-```
 ## Check security vulnerabilities
-```
-pipenv check
-```
-## Update Django
-```
-pipenv install
-```
-## Run check again
 ```
 pipenv check
 ```
