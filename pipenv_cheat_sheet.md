@@ -69,3 +69,7 @@ pipenv install --ignore-pipfile
 ```
 pipenv lock
 ```
+## Run with pipenv
+```
+pipenv run *
+```
