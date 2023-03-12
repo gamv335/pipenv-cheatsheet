@@ -63,3 +63,8 @@ exit
 ```
 pipenv run *
 ```
+
+## Credits
+
+@bradtraversy
+
